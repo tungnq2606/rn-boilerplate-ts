@@ -1,0 +1,8 @@
+{
+  "name": "react-native-new-template",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://github.com/tungnq2606/rn-boilerplate-ts",
+  "author": "Quoc Tung <quoctung2606@gmail.com>",
+  "license": "MIT"
+}
